@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    The purpose of this project is to load a video file from a local folder on the PC and play it using the options allowed by the Media Source API.
+    The purpose of this project is to generate a form with Angular that allows to create, edit, modify and delete a list of people.
     <br />
     <a style="color:#874EA0" href="https://github.com/raqelcb/SamsungDesArrolladoras-Angular/blob/main/EnunciadoAangular.pdf"><strong>Explore the subject »</strong></a>
     <br />
