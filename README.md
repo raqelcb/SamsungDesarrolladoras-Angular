@@ -84,6 +84,11 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/raqelcb/SamsungDesarrolladoras-Angular.git
    ```
+1. In this case, you only need to execute with `ng serve` in `project/src/app`
+   ```sh
+   cd project/src/app
+   ng serve
+   ```
 
 <br>
 
