@@ -14,21 +14,22 @@
   --marked: #fa8333;
 }
 
-.span {
-  margin: auto;
+.person,
+.list-button,
+.gender {
+  margin-right: 15px;
 }
 
-.title {
-  text-transform: uppercase;
-  letter-spacing: 10px;
+.bottom-container {
+  margin-bottom: 20px;
 }
 
-.icon {
-  margin-left: 20px;
-  margin-right: 50px;
+.button-green {
+  background-color: var(--marked);
 }
 
-.mat-toolbar.mat-primary
-{
-  background: var(--marked);
+.card-content {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 30px 30px;
 }
